@@ -42,9 +42,9 @@
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Account\\Register.cshtml*",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml*",
-              "ViewState": "AgIAACEAAAAAAAAAAAD4vywAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAI0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-12T00:15:18.049Z",
               "EditorCaption": ""
@@ -57,9 +57,10 @@
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T00:13:34.252Z"
+              "WhenOpened": "2024-11-12T00:13:34.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
