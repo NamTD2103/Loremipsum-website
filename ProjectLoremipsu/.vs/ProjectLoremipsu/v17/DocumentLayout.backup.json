@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Doan2024ltw\\Loremipsum-website\\ProjectLoremipsu\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|D:\\Doan2024ltw\\Loremipsum-website\\ProjectLoremipsu\\views\\shared\\_layoutcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|c:\\users\\admin\\documents\\github\\loremipsum-website\\projectloremipsu\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\views\\shared\\_layoutcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|solutionrelative:views\\shared\\_layoutcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|d:\\doan2024ltw\\loremipsum-website\\projectloremipsu\\views\\home\\testcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\views\\home\\testcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|solutionrelative:views\\home\\testcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|D:\\Doan2024ltw\\Loremipsum-website\\ProjectLoremipsu\\views\\images\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\views\\images\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F8B7DF14-1C19-4046-89DD-EB791529EB86}|ProjectLoremipsu.csproj|solutionrelative:views\\images\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -22,28 +30,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestContent.cshtml",
-              "DocumentMoniker": "D:\\Doan2024ltw\\Loremipsum-website\\ProjectLoremipsu\\Views\\Home\\TestContent.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\TestContent.cshtml",
-              "ToolTip": "D:\\Doan2024ltw\\Loremipsum-website\\ProjectLoremipsu\\Views\\Home\\TestContent.cshtml",
-              "RelativeToolTip": "Views\\Home\\TestContent.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Account\\Register.cshtml*",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T10:57:00.32Z",
+              "WhenOpened": "2024-11-12T00:15:18.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T00:13:34.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Home\\TestContent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\TestContent.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Home\\TestContent.cshtml",
+              "RelativeToolTip": "Views\\Home\\TestContent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T10:57:00.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Doan2024ltw\\Loremipsum-website\\ProjectLoremipsu\\Views\\images\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\images\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\images\\Index.cshtml",
-              "ToolTip": "D:\\Doan2024ltw\\Loremipsum-website\\ProjectLoremipsu\\Views\\images\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\images\\Index.cshtml",
               "RelativeToolTip": "Views\\images\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -51,16 +87,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_LayoutContent.cshtml",
-              "DocumentMoniker": "D:\\Doan2024ltw\\Loremipsum-website\\ProjectLoremipsu\\Views\\Shared\\_LayoutContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Shared\\_LayoutContent.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutContent.cshtml",
-              "ToolTip": "D:\\Doan2024ltw\\Loremipsum-website\\ProjectLoremipsu\\Views\\Shared\\_LayoutContent.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Loremipsum-website\\ProjectLoremipsu\\Views\\Shared\\_LayoutContent.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LayoutContent.cshtml",
               "ViewState": "AgIAAPwAAAAAAAAAAAAAwMkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T10:26:34.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T10:26:34.929Z"
             }
           ]
         }
